@@ -1,6 +1,6 @@
-# React Learning Journey: To-Do List Project
+# React Learning Journey:
 
-Welcome to my React practice project! This repo showcases everything I've learned so far while diving into the React ecosystem — using simple components, hooks, and concepts to build a functioning to-do list app.
+This repo showcases everything I've learned so far while diving into the React ecosystem — using simple components, hooks, and other concepts
 
 ---
 
